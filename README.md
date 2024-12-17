@@ -1,0 +1,2 @@
+# grok
+opengrok install script
